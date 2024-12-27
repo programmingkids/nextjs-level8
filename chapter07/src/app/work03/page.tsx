@@ -8,7 +8,7 @@ export default function Page() {
     <div className="main">
       <h1 className="p-4 bg-blue-200 text-xl">Work03</h1>
       <div className="py-4 px-6">
-        <div className="grid grid-cols-4 gap-5 justify-items-center	mb-4">
+        <div className="grid grid-cols-4 gap-5 justify-items-center mb-4">
           <MdPerson />
           <MdHome />
           <MdEdit />
